@@ -1,5 +1,3 @@
-Prefer the cable if the picture stutters. Do not leave the phone app listening, and do not aim it at anyone who has not agreed to be on camera. Grant the camera permission when the phone asks. In the call app, choose this camera and confirm you see yourself. Then quit both programs.
-
 # DroidCam - Your Phone as a Webcam on Your PC
 
 DroidCam shows the camera of a phone you own as a webcam on the PC in front of you. You run the phone app and the Windows client yourself, on the same desk, over USB or a Wi-Fi network you trust. It does not turn on a phone that belongs to someone else, and it does not belong pointed at a person who has not agreed to be on camera.
